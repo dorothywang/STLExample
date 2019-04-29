@@ -39,7 +39,7 @@ int main()
     cout << endl;
 
     // overwrite a name again
-    *pNico = "Nicolai";
+    *pNico = "Nicolaiffff";
 
     // print all elements again
     for (auto ptr : whoMadeCoffee) {
